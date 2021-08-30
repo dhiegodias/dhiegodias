@@ -54,5 +54,5 @@ I'm Dhiego, currently a Full Stack Development Student at Trybe in career transi
 <b>I enjoy connecting with different people so if you want to say hi, I'll be happy to meet you more! &nbsp; :grin:</b>
 <br />
 <br />
-<b>:thought_balloon: &nbsp; Be the change you wish to see in the world &nbsp; :thought_balloon:</b>
+<b>:thought_balloon: &nbsp; Be the change you wish to see in the world &nbsp;:thought_balloon:</b>
 <br />
