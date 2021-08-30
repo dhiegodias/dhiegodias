@@ -1,4 +1,6 @@
 <b>Hello, welcome to my Github</b>
+<br />
+<br />
 <p>
 I'm Dhiego, currently a Full Stack Development Student at <a href="https://www.betrybe.com/">Trybe</a> in career transition.
 </p>
