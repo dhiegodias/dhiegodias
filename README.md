@@ -1,4 +1,4 @@
-## Hello! I'm Dhiego.
+## Hello! I'm Dhiego 👋
 
 - 🔭 Currently a Full Stack Jr. Engineer, former <a href="https://www.betrybe.com/">Trybe</a> student and <a href="https://www.beepsaude.com.br/">Beep Saúde</a> developer. Recently I've worked with Ruby on Rails, VueJS, OOP, TDD, DDD, React Native and Hexagonal Architecture.
 - :raised_hands: I appreciate learning new things and I'm eager to grow and develop my skillset. Mostly OOP, Ruby on Rails, DDD and Clean Architecture.
