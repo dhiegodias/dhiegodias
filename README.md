@@ -7,7 +7,7 @@
 
 #### Ruby on Rails || JavaScript || Python
 
-I'm currently a Full Stack Engineer and Sysadmin @ [DBA Eng](https://dba.eng.br/), formerly a Full Stack Engineer @ [Beep](https://beepsaude.com.br/), [Trybe](https://www.betrybe.com/) and [Estacio](https://estacio.br/) Alumni. I'm a generalist Software Engineer with focus on bringing high value deliverables to the table and is always eager to learn. Ownership and teamwork are my core values, and I am a highly motivated and delivery-oriented team player.
+I'm currently a Full Stack Engineer and Sysadmin @ [DBA Tecnologia](https://dba.eng.br/), formerly a Full Stack Engineer @ [Beep](https://beepsaude.com.br/), [Trybe](https://www.betrybe.com/) and [Estacio](https://estacio.br/) Alumni. I'm a generalist Software Engineer with focus on bringing high value deliverables to the table and is always eager to learn. Ownership and teamwork are my core values, and I am a highly motivated and delivery-oriented team player.
 
 ---
 
